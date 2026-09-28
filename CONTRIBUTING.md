@@ -26,8 +26,9 @@ House rules:
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
 - Monochrome on a blue-hour navy: cobalt only for fills and the main button, ivory for
-  links, no shadows. The only embedded font is Fira Sans Light (the title and headings,
-  tracked open): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+  links, no shadows. The only embedded font is Alpine Sans Light, a renamed subset of
+  Fira Sans Light (the title and headings, tracked open): `fonts/*.woff2` are written
+  into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

@@ -1,3 +1,6 @@
+Alpine Sans is a modified version of Fira Sans Light: a Latin and Cyrillic subset, renamed
+because the original carries a Reserved Font Name.
+
 Fira Sans, Copyright 2012-2018 The Mozilla Foundation and Telefonica S.A., with Reserved Font Name "Fira".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

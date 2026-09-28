@@ -159,7 +159,7 @@ no shadow, and the title in the type's colour.</p></div>
 {callout("success", "check", "Cleared", "Green for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Amber for what needs a look, rose for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Keep the money calm and the numbers plain.</p></blockquote></div>
-{table(["Face", "Role"], ["Fira Sans 300", "Title and headings, tracked open"], ["Sans 400", "Body text"], ["Sans 500", "Labels and small headings"])}
+{table(["Face", "Role"], ["Alpine Sans 300", "Title and headings, tracked open"], ["Sans 400", "Body text"], ["Sans 500", "Labels and small headings"])}
 """
 
 NOTE_RU = f"""
