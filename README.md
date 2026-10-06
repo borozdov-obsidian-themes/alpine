@@ -33,10 +33,14 @@ light wide headlines, ghost pill buttons and one cobalt for what you act on.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Alpine**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Utility**. Install Borozdov Utility under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Alpine** under Style Settings → Borozdov Utility → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/alpine/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Alpine/`, then choose Borozdov Alpine under
 Settings → Appearance → Themes.
@@ -58,5 +62,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: тёмный «Вершина» — альпийский банк в
 синий час, и светлый «Снеговая линия» — та же долина в полдень. Сине-графитовая ночь, текст
 цвета слоновой кости, лёгкие широкие заголовки (Alpine Sans Light), кнопки-пилюли без
-заливки и один кобальтовый для того, что вы делаете. Устанавливается из каталога: Настройки
-→ Оформление → Темы → Настроить → Borozdov Alpine → Установить и применить.
+заливки и один кобальтовый для того, что вы делаете. В каталоге тема живёт вариантом Borozdov Utility: установите Borozdov Utility и плагин Style Settings, затем выберите Alpine в Style Settings → Borozdov Utility → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
